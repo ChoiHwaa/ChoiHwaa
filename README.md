@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on bot development.
 
-📫 How to reach me [Telegram](http://t.me/+p5eEQ2QDuF1hMThk).
+📫 How to reach me [Telegram](https://t.me/TelethonChat).
 
 <!---
 ChoiHwaa/ChoiHwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
